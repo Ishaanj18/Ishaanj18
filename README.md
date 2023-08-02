@@ -7,9 +7,9 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Geospatial Data Analysis**
  
-- 🔥 I'm also enhancing myself in the field of **Design of Algorithm**
+- 🔥 I'm also enhancing myself in the field of **Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
  
